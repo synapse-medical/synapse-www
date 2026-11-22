@@ -14,11 +14,11 @@
     "deploy:prod": "npm run build && sh scripts/deploy.sh prod"
   },
   "dependencies": {
-    "@astrojs/sitemap": "^3.7.4",
+    "@astrojs/sitemap": "^3.7.6",
     "@fontsource-variable/jetbrains-mono": "^5.3.0",
     "@fontsource-variable/newsreader": "^5.3.0",
     "@fontsource-variable/nunito": "^5.3.0",
-    "astro": "^7.4.2",
+    "astro": "^7.4.13",
     "sharp": "^0.35.5"
   },
   "devDependencies": {
